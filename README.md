@@ -10,10 +10,7 @@ This repository contains the code and resources for the **"Introduction to Data 
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [File Structure](#file-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -61,16 +58,6 @@ Usage
 Launch the notebook Optimized_Introduction_to_Data_Science_Project.ipynb.
 Follow the steps for data analysis and model training.
 Modify and experiment with different parameters to explore insights.
-File Structure
-
-introduction-to-data-science-project/
-│
-├── Optimized_Introduction_to_Data_Science_Project.ipynb  # Main notebook
-├── README.md                                             # Project documentation
-├── requirements.txt                                      # Required libraries
-├── data/                                                # Dataset folder
-│   └── [dataset_name.csv]                               # Example dataset
-└── outputs/                                             # Folder for model results and analysis outputs
 Contributing
 
 Contributions are welcome! If you have ideas or improvements:
