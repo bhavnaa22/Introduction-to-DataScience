@@ -9,8 +9,6 @@ This repository contains the **"Bhavana Ajay Project 2"**, showcasing advanced d
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [File Structure](#file-structure)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -44,3 +42,41 @@ This project focuses on:
 - Install dependencies with:
 ```bash
 pip install -r requirements.txt
+
+Installation
+
+Clone the repository:
+git clone https://github.com/your-username/bhavana-ajay-project-2.git
+cd bhavana-ajay-project-2
+Install the dependencies:
+pip install -r requirements.txt
+Run Jupyter Notebook:
+jupyter notebook
+Usage
+
+Open the file Optimized_Bhavana_Ajay_Project_2-2.ipynb in Jupyter Notebook.
+Follow the step-by-step execution of the notebook:
+Data Cleaning
+Exploratory Data Analysis (EDA)
+Model Training and Evaluation
+Modify parameters or experiment with different algorithms as needed.
+
+Contributing
+
+We welcome contributions! If you'd like to contribute:
+
+Fork this repository.
+Create a branch for your feature or fix:
+git checkout -b feature-name
+Commit your changes and push to your fork.
+Open a pull request and describe the changes you made.
+
+
+Contact
+
+For any questions, feel free to reach out:
+
+Name: Bhavana Ajay
+Email: bhavnaa2277@gmail.com
+
+
